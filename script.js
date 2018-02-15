@@ -61,7 +61,6 @@ function createSecondArc() {
 	ctx.stroke();
 };
 
-//Inputs
 var firstNumberInput = document.createElement('input');
 firstNumberInput.setAttribute("type", "text");
 firstNumberInput.setAttribute("maxlength", "1");
